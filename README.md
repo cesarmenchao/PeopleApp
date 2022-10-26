@@ -1,2 +1,2 @@
 # doctorsApp
-  Aplicativo com fins de estudo, utilizando styled components 
+  Aplicativo de estudo, utilizando styled components 
